@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="edgedriver_win64">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../edgedriver_win64.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="gavroche">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../gavroche.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
