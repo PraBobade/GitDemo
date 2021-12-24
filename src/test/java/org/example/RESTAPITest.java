@@ -10,4 +10,11 @@ public class RESTAPITest {
         System.out.println("Hello world Good Morning");
         System.out.println("Hello world");
     }
+
+    public void RestInPeace(){
+        System.out.println("This i");
+        System.out.println("Horning");
+        System.out.println("Helrld");
+    }
+
 }

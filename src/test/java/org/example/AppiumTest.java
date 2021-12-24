@@ -13,4 +13,8 @@ public class AppiumTest {
     public void Thisisapp(){
         System.out.println("This is My app");
     }
+
+    public void NewMethod(){
+        System.out.println("This is new method");
+    }
 }
